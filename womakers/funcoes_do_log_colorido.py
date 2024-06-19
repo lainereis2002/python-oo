@@ -2,6 +2,7 @@ import sys
 sys.path.append(r'C:\users\user\appdata\local\programs\python\python310\lib\site-packages')
 
 import colorama
+#parece erro, mas ele está funcionando
 
 colorama.init()
 
